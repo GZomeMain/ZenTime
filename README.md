@@ -1,6 +1,6 @@
 # ⏳ ZenFocus Timer
 
-ZenFocus Timer is a minimalist, distraction-free web application designed to help users focus using a Pomodoro-style timer.
+Full Screen absoulte Minamalist timer for Study/work/focus. With good font selection +  animation + Modern Clean look
 
 ### 🛠️ Tech Stack
 
