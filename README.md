@@ -1,6 +1,6 @@
 # ⏳ ZenFocus Timer
 
-Full Screen absoulte Minamalist timer for Study/work/focus. With good font selection +  animation + Modern Clean look
+Full Screen absoulute Minamalist timer for Study/work/focus. With good font selection +  animation + Modern Clean look
 
 ### 🛠️ Tech Stack
 
